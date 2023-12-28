@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-        - image: woongpang/django-login2:4
+        - image: woongpang/django-login2:6
           name: flaskdemo
           resources: {}
 status: {}
